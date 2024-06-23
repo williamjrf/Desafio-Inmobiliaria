@@ -1,0 +1,12 @@
+#containerimagen{
+background-image: url(../images/img-main.jpeg);
+background-color: none;
+background-size: cover;
+
+}
+
+#tituloimagen{
+    color: white;
+    font-weight: 400;
+}
+    
